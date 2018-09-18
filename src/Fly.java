@@ -1,6 +1,6 @@
 import processing.core.PApplet;
 /**
- * Fly is the class that defines the fly that jar.pears
+ * Fly is the class that defines the fly that appears
  * in the game. It is a circle that moves in random motion. 
  */
 public class Fly {
