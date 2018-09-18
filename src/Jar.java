@@ -10,7 +10,7 @@ public class Jar {
 	protected float jarWidth;
 	protected float jarHeight;
 	
-	PApplet 	p;
+	PApplet p;
 	
 	/* Constructor that takes in PApplet */
 	public Jar (PApplet p) {
